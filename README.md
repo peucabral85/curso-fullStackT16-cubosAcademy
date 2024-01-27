@@ -25,9 +25,11 @@ A estrutura deste repositório se dará da seguinte forma:
 
 ## Índice do Repositório
 
+### Módulo 01 - Back End
 
+- [Jogos Mortais - The Mini Game (Desenvolvido durante Aula Técnica Inaugural do Curso - 18/01/24)](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana01/qui-AulaTecnInaugural/Mini_Game_Jogos_Mortais)
 
-
+- [Exercícios Variáveis - 24/01/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana02/24_01-Variaveis/ExerciciosPropostos)
 
 ## Entre em Contato 📭
 
