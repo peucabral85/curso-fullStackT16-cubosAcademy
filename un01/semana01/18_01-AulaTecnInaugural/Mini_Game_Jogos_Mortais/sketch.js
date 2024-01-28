@@ -78,8 +78,6 @@ function telaJogo() {
     botao.position(512);
 
     botao.mousePressed(reiniciar);
-
-    noLoop();
   }
 
   //Verifica se algum dos perseguidores alcançou o personagem principal
