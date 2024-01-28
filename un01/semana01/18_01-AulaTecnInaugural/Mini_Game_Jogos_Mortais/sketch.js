@@ -1,20 +1,20 @@
 //Botões Menu
-var xBotao1 = 110;
-var xBotao2 = 310;
-var xTexto;
-var yTexto;
-var yBotao = 100;
-var larguraBotao = 150;
-var alturaBotao = 60;
-var suavizaBotao = 12;
-var escolhaMenu = 0;
-var tela = 0;
+const xBotao1 = 110;
+const xBotao2 = 310;
+let xTexto;
+let yTexto;
+const yBotao = 100;
+const larguraBotao = 150;
+const alturaBotao = 60;
+const suavizaBotao = 12;
+let escolhaMenu = 0;
+let tela = 0;
 
 //Botão Voltar
-var xBotaoVoltar = 480
-var larguraBotaoVoltar = 80
-var alturaBotaoVoltar = 20
-var yBotaoVoltar1 = 540
+const xBotaoVoltar = 480
+const larguraBotaoVoltar = 80
+const alturaBotaoVoltar = 20
+const yBotaoVoltar1 = 540
 
 //Imagens personagens
 let personagemBoneco;
