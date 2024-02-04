@@ -31,6 +31,10 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Variáveis - 24/01/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana02/24_01-Variaveis/ExerciciosPropostos)
 
+- [Exercícios Condicionais - 29/01/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana03/29_01-Condicionais/Exercicios%20Propostos)
+
+- [Exercícios Arrays/Loops - 31/01/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana03/31_01-ArraysLoops/Exercicios%20Propostos)
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
