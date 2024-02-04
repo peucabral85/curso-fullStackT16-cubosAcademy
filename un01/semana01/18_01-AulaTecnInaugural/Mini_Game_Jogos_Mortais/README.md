@@ -8,6 +8,8 @@ Este mini game foi idealizado durante a Aula Inaugural técnica do [Curso de Des
 
 A ideia inicial do game seria para testar o poder da biblioteca P5js e os conhecimentos básicos em JavaScript e assim veio a ideia de um simples game com a temática dos Jogos Mortais, onde você deve conseguir fugir das armadilhas do John Kramer e chegar à "Porta da Liberdade".
 
+O game foi feito durante a aula, ou seja, é ainda algo bem embrionário. Espero, até o final do curso, desenvolver ainda mais habilidades em JavaScript para melhorar este projeto.
+
 
 
 ## Pré-Requisitos
