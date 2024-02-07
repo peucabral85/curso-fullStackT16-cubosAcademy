@@ -35,6 +35,10 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Arrays/Loops - 31/01/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana03/31_01-ArraysLoops/Exercicios%20Propostos)
 
+- [Exercícios Array/Loops HackerHank - 05/02/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana04/05_02-PraticaArraysLoops/ExerciciosHackerRank)
+
+  
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
