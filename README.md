@@ -37,6 +37,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Array/Loops HackerHank - 05/02/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana04/05_02-PraticaArraysLoops/ExerciciosHackerRank)
 
+- [Exercícios Objetos - 07/02/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana04/07_02-Objetos/Exercicios%20Propostos)
+
   
 
 ## Entre em Contato 📭
