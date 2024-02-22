@@ -39,6 +39,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Objetos - 07/02/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana04/07_02-Objetos/Exercicios%20Propostos)
 
+- [Exercícios Funções - 19/02/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana06/19_02-Fun%C3%A7%C3%B5es/Exercicios%20Propostos)
+
   
 
 ## Entre em Contato 📭
