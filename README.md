@@ -43,6 +43,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Métodos de Strings - 21/02/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana06/21_02-M%C3%A9todos%20de%20Strings/Exercicios%20Propostos)
 
+- [Exercícios Métodos de Arrays - 26/02/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana07/26_02-M%C3%A9todos%20de%20Arrays/Exercicios%20Propostos)
+
   
 
 ## Entre em Contato 📭
