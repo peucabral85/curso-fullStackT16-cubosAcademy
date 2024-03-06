@@ -1,7 +1,7 @@
 const nome = 'Guido Cerqueira';
 
 function gerarNickname(nome) {
-    let arrayNome = nome.split(" ");
+    let arrayNome = nome.trim().split(" ");
     let nickname = "";
     for (let nomes of arrayNome) {
         nickname += nomes.toLowerCase();
