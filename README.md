@@ -45,6 +45,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Métodos de Arrays - 26/02/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana07/26_02-M%C3%A9todos%20de%20Arrays/Exercicios%20Propostos)
 
+- [Exercícios Métodos de Arrays II - 04/03/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana08/04_03-Metodos%20de%20Arrays%20II/Exercicios%20Propostos)
+
   
 
 ## Entre em Contato 📭
