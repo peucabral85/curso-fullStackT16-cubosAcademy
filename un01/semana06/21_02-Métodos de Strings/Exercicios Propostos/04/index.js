@@ -2,10 +2,6 @@ let identificador = "123";
 let nome = "José silva costa";
 let email = "      jose@email.com  ";
 
-if (identificador.length < 6) {
-    console.log(identificador.padStart(6, "0"));
-}
-
 function formatarNomeCompleto(nomeCompleto) {
     const array = nomeCompleto.split(" ");
     let nomeFormatado = "";
@@ -17,5 +13,6 @@ function formatarNomeCompleto(nomeCompleto) {
     return nomeFormatado.trim();
 }
 
+console.log(identificador.padStart(6, "0"));
 console.log(formatarNomeCompleto(nome));
 console.log(email.trim());
