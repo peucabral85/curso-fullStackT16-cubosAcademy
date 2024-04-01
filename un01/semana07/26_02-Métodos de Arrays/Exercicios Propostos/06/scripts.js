@@ -22,12 +22,17 @@ const usuarios = [
 ];
 
 function buscaDono(pet) {
+    let donoEncontrado;
     for (const usuario of usuarios) {
         if (usuario.pets.includes(pet)) {
-            return console.log(`O dono(a) do(a) ${pet} é o(a) ${usuario.nome}.`);
+            donoEncontrado = usuario;
         }
     }
-    console.log(`Que pena ${pet}, não encontramos seu dono(a).`);
+    if (donoEncontrado) {
+        console.log(`O dono(a) do(a) ${pet} é o(a) ${donoEncontrado.nome}.`);
+    } else {
+        console.log(`Que pena ${pet}, não encontramos seu dono(a).`);
+    }
 }
 
 buscaDono("Lessie");
