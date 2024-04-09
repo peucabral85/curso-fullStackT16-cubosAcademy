@@ -7,7 +7,7 @@ let seg = 0; //segundos
 let cronometro;
 
 function atualizarSeg() {
-    if (seg === 60) {
+    if (seg === 59) {
         seg = 0;
         atualizarMin();
         return;
