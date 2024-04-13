@@ -49,6 +49,13 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Métodos de Arrays III - 06/03/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana08/06_03-Metodos%20de%20Array%20III/Exercicios%20Propostos)
 
+### Módulo 02 - Back End
+
+- [Exercícios Primeiro Servidor - 27/03/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana01/27_03-PrimeiroServidor/Exercicios_Propostos)
+
+- [Exercícios Rotas/Intermediários/Controladores - 01/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana02/01_04-Rotas_Inter_Controladores/Exercicios_Propostos)
+
+- [Exercícios API Rest - 03/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana02/03_04-Api_Rest/Exercicios_Propostos)
   
 
 ## Entre em Contato 📭
