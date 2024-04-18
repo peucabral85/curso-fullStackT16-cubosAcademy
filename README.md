@@ -56,6 +56,8 @@ A estrutura deste repositório se dará da seguinte forma:
 - [Exercícios Rotas/Intermediários/Controladores - 01/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana02/01_04-Rotas_Inter_Controladores/Exercicios_Propostos)
 
 - [Exercícios API Rest - 03/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana02/03_04-Api_Rest/Exercicios_Propostos)
+
+- [Exercícios Programação Assíncrona - 10/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana03/10_04-Programa%C3%A7%C3%A3o_Ass%C3%ADncrona/Exercicios_Propostos)
   
 
 ## Entre em Contato 📭
