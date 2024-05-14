@@ -49,6 +49,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Métodos de Arrays III - 06/03/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana08/06_03-Metodos%20de%20Array%20III/Exercicios%20Propostos)
 
+- #### [Desafio M01 - Desafio de Lógica](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana09/desafio)
+
 ### Módulo 02 - Back End
 
 - [Exercícios Primeiro Servidor - 27/03/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana01/27_03-PrimeiroServidor/Exercicios_Propostos)
@@ -61,10 +63,11 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Leitura e Escrita de Arquivos - 15/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana04/15_04-Leitura-e-escrita-em-arquivos/Exercicios_Propostos)
 
+- #### [*Desafio M02 - Cubos Bank API*](https://github.com/peucabral85/api-cubos-bank)
+
 ### Módulo 03 - Back End
 
 - [Exercícios Consultas SQL - 13/05/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana01/13_05-Consultas_Sql/Exercicios_Propostos/01)
-  
 
 ## Entre em Contato 📭
 
