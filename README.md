@@ -49,7 +49,7 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Métodos de Arrays III - 06/03/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana08/06_03-Metodos%20de%20Array%20III/Exercicios%20Propostos)
 
-- #### [Desafio M01 - Desafio de Lógica](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana09/desafio)
+- #### [*Desafio M01 - Desafio de Lógica*](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana09/desafio)
 
 ### Módulo 02 - Back End
 
