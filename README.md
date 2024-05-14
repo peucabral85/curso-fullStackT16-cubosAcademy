@@ -58,6 +58,12 @@ A estrutura deste repositório se dará da seguinte forma:
 - [Exercícios API Rest - 03/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana02/03_04-Api_Rest/Exercicios_Propostos)
 
 - [Exercícios Programação Assíncrona - 10/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana03/10_04-Programa%C3%A7%C3%A3o_Ass%C3%ADncrona/Exercicios_Propostos)
+
+- [Exercícios Leitura e Escrita de Arquivos - 15/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana04/15_04-Leitura-e-escrita-em-arquivos/Exercicios_Propostos)
+
+### Módulo 03 - Back End
+
+- [Exercícios Consultas SQL - 13/05/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana01/13_05-Consultas_Sql/Exercicios_Propostos/01)
   
 
 ## Entre em Contato 📭
