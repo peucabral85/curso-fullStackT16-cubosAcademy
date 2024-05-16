@@ -69,6 +69,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Consultas SQL - 13/05/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana01/13_05-Consultas_Sql/Exercicios_Propostos/01)
 
+- [Exercícios Funções SQL - 15/05/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana01/15_05-Funcoes_Postgresql/Exercicios_Propostos/01)
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
