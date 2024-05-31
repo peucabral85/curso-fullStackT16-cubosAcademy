@@ -75,6 +75,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Modelagem de dados - 22/05/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana02/22_05-Modelagem_Sql/Exercicios_Propostos/01)
 
+- [Exercícios Conexão NodeJs PostgreSql - 27/05/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana03/27_05-Conexao_Nodejs_com_Postgresql/Exercicios_Propostos/01)
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
