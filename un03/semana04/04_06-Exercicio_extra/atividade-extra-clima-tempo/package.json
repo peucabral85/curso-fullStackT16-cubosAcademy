@@ -1,0 +1,21 @@
+{
+  "name": "atividade-extra-clima-tempo",
+  "version": "1.0.0",
+  "description": "Desenvolver uma API que integre múltiplas fontes de dados para apresentar informações de clima, tempo e notícias de diferentes regiões do Brasil.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
