@@ -81,6 +81,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Integração com API de Terceiros - 03/06/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana04/03_06-Integracao_com_API_terceiros/Exercicios_Propostos/01)
 
+- #### [*Desafio Técnico - API Clima Tempo*](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana04/04_06-Exercicio_extra/atividade-extra-clima-tempo)
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
