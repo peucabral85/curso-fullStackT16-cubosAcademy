@@ -83,6 +83,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - #### [*Desafio Técnico - API Clima Tempo*](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana04/04_06-Exercicio_extra/atividade-extra-clima-tempo)
 
+- #### [*Desafio M03 - Dindin API*](https://github.com/peucabral85/api-dindin)
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
