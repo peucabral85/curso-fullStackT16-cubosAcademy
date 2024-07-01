@@ -25,7 +25,7 @@ A estrutura deste repositório se dará da seguinte forma:
 
 ## Índice do Repositório
 
-### Módulo 01 - Back End
+### Módulo 01 - Backend
 
 - [Jogos Mortais - The Mini Game (Desenvolvido durante Aula Técnica Inaugural do Curso - 18/01/24)](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana01/18_01-AulaTecnInaugural/Mini_Game_Jogos_Mortais)
 
@@ -51,7 +51,7 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - #### [*Desafio M01 - Desafio de Lógica*](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un01/semana09/desafio)
 
-### Módulo 02 - Back End
+### Módulo 02 - Backend
 
 - [Exercícios Primeiro Servidor - 27/03/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un02/semana01/27_03-PrimeiroServidor/Exercicios_Propostos)
 
@@ -65,7 +65,7 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - #### [*Desafio M02 - Cubos Bank API*](https://github.com/peucabral85/api-cubos-bank)
 
-### Módulo 03 - Back End
+### Módulo 03 - Backend
 
 - [Exercícios Consultas SQL - 13/05/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana01/13_05-Consultas_Sql/Exercicios_Propostos/01)
 
@@ -84,6 +84,10 @@ A estrutura deste repositório se dará da seguinte forma:
 - #### [*Desafio Técnico - API Clima Tempo*](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un03/semana04/04_06-Exercicio_extra/atividade-extra-clima-tempo)
 
 - #### [*Desafio M03 - Dindin API*](https://github.com/peucabral85/api-dindin)
+
+### Módulo 04 - Backend
+
+- [Exercícios Query Builder - 26/06/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un04/semana01/27_06-Query_Builder/Exercicios_Propostos)
 
 ## Entre em Contato 📭
 
