@@ -89,6 +89,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Query Builder - 26/06/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un04/semana01/27_06-Query_Builder/Exercicios_Propostos)
 
+- [Exercícios Deploy - 03/07/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un04/semana02/03_07-Deploy/Exercicios_Propostos)
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
