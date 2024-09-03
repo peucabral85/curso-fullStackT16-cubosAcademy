@@ -93,6 +93,13 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios Envio de Emails - 08/07/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un04/semana03/08_07-Envio_de_Emails/Exercicios_Propostos)
 
+- [Exemplos Escopando uma API - 10/07/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un04/semana03/10_07-Escopando_uma_API/Exemplos)
+
+- [Exercícios Upload de Arquivos - 15/07/2024](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/un04/semana04/15_07-Upload_de_Arquivos/Exercicios_Propostos/01)
+
+### Módulo 05 - Backend
+- #### [*Desafio Final - API PDV*](https://github.com/peucabral85/Pdv-Ansiedade-Code)
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
