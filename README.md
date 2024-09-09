@@ -105,6 +105,10 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios do JavaScript ao TypeScript - 02/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana01/02_09-Do_Javascript_ao_Typescript/Exerc%C3%ADcios_Propostos)
 
+- [Exercícios Tipos de Dados I - 03/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana01/03_09-Tipos_de_dados_I)
+
+- [Exercícios Tipos de Dados II - 04/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana01/04_09-Tipos_de_dados_II)
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
