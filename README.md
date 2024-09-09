@@ -25,7 +25,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 ## Índice do Repositório
 
-### Módulo 01 - Backend
+### Backend
+### Módulo 01
 
 - [Jogos Mortais - The Mini Game (Desenvolvido durante Aula Técnica Inaugural do Curso - 18/01/24)](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/modulo01/semana01/18_01-AulaTecnInaugural/Mini_Game_Jogos_Mortais)
 
@@ -51,7 +52,7 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - #### [*Desafio M01 - Desafio de Lógica*](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/modulo01/semana09/desafio)
 
-### Módulo 02 - Backend
+### Módulo 02
 
 - [Exercícios Primeiro Servidor - 27/03/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/modulo02/semana01/27_03-PrimeiroServidor/Exercicios_Propostos)
 
@@ -65,7 +66,7 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - #### [*Desafio M02 - Cubos Bank API*](https://github.com/peucabral85/api-cubos-bank)
 
-### Módulo 03 - Backend
+### Módulo 03
 
 - [Exercícios Consultas SQL - 13/05/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/modulo03/semana01/13_05-Consultas_Sql/Exercicios_Propostos/01)
 
@@ -85,7 +86,7 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - #### [*Desafio M03 - Dindin API*](https://github.com/peucabral85/api-dindin)
 
-### Módulo 04 - Backend
+### Módulo 04
 
 - [Exercícios Query Builder - 26/06/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/modulo04/semana01/27_06-Query_Builder/Exercicios_Propostos)
 
@@ -95,10 +96,14 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exemplos Escopando uma API - 10/07/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/modulo04/semana03/10_07-Escopando_uma_API/Exemplos)
 
-- [Exercícios Upload de Arquivos - 15/07/2024](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/modulo04/semana04/15_07-Upload_de_Arquivos/Exercicios_Propostos/01)
+- [Exercícios Upload de Arquivos - 15/07/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/modulo04/semana04/15_07-Upload_de_Arquivos/Exercicios_Propostos/01)
 
-### Módulo 05 - Backend
+### Módulo 05
 - #### [*Desafio Final - API PDV*](https://github.com/peucabral85/Pdv-Ansiedade-Code)
+
+### Módulo TypeScript
+
+- [Exercícios do JavaScript ao TypeScript - 02/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana01/02_09-Do_Javascript_ao_Typescript/Exerc%C3%ADcios_Propostos)
 
 ## Entre em Contato 📭
 
