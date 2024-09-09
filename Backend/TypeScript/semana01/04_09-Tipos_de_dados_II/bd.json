@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Diego dos Santos",
+        "email": "diego@email.com",
+        "cpf": "016.654.543-19",
+        "profissao": "Pedreiro",
+        "endereco": {
+            "cep": "46799-000",
+            "rua": "Rua A",
+            "bairro": "Vomita Mel",
+            "cidade": "Guanambi"
+        }
+    },
+    {
+        "nome": "Miguel Lopes",
+        "email": "miguel@email.com",
+        "cpf": "018.654.544-20",
+        "profissao": "Professor",
+        "endereco": {
+            "cep": "49799-500",
+            "rua": "Rua B",
+            "bairro": "Centro",
+            "cidade": "Planalto"
+        }
+    }
+]
