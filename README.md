@@ -105,9 +105,21 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercícios do JavaScript ao TypeScript - 02/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana01/02_09-Do_Javascript_ao_Typescript/Exerc%C3%ADcios_Propostos)
 
-- [Exercícios Tipos de Dados I - 03/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana01/03_09-Tipos_de_dados_I)
+- [Exercícios Tipos de Dados I - 03/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana01/03_09-Tipos_de_dados_I)
 
-- [Exercícios Tipos de Dados II - 04/04/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana01/04_09-Tipos_de_dados_II)
+- [Exercícios Tipos de Dados II - 04/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana01/04_09-Tipos_de_dados_II)
+
+- [Exercícios Tipos Utilitários - 05/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana01/05_09-Tipos_Utilitarios/Exercicios_Propostos)
+
+- [Exercício Primeiro Projeto no Backend - 10/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana02/10_09-Primero_projeto_no_backend)
+
+- [Exercício Construindo Objetos com Classes - 11/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana02/11_09-Construindo_Objetos_com_Classes/Exercicios_Propostos)
+
+- [Exercício Herança - 12/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana02/12_09-Heranca/Exercicios_Propostos)
+
+- [Exercício Polimorfismo - 16/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana03/16_09-Polimorfismo/Exercicios_Propostos)
+
+- [Exercício Interfaces - 17/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana03/17_09-Interfaces/Exercicios_Propostos)
 
 ## Entre em Contato 📭
 
