@@ -123,6 +123,8 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercício Prática com Orientação a Objetos -18/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana03/18_09-Pratica_com_Orientacao_a_Objetos)
 
+- [Exercício Generics - 19/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana03/19_09-Generics/Exercicios_Propostos/01)
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
