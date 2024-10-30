@@ -129,6 +129,7 @@ A estrutura deste repositório se dará da seguinte forma:
 ### Módulo 01
 - [Exercícios Html, tags, atributos e valores - 07/10/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Frontend/modulo01/07_10-Html_tags_atributos_e_valores/Exercicios_Propostos)
 - [Exercícios Css, seletores e Propriedades - 09/10/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Frontend/modulo01/09_10-Css_seletores_e_propriedades/Exercicios_Propostos)
+- [Exercícios Css, propriedades e mais regras - 14/10/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Frontend/modulo01/14_10-Css_Propriedade_e_mais_regras_de_funcionamento/Exercicios_Propostos)
 
 ## Entre em Contato 📭
 
