@@ -125,6 +125,11 @@ A estrutura deste repositório se dará da seguinte forma:
 
 - [Exercício Generics - 19/09/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Backend/TypeScript/semana03/19_09-Generics/Exercicios_Propostos/01)
 
+### FrontEnd
+### Módulo 01
+- [Exercícios Html, tags, atributos e valores - 07/10/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Frontend/modulo01/07_10-Html_tags_atributos_e_valores/Exercicios_Propostos)
+- [Exercícios Css, seletores e Propriedades - 09/10/24](https://github.com/peucabral85/curso-fullStackT16-cubosAcademy/tree/main/Frontend/modulo01/09_10-Css_seletores_e_propriedades/Exercicios_Propostos)
+
 ## Entre em Contato 📭
 
 <a href="https://www.linkedin.com/in/periclescabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:periclesccabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
