@@ -1,0 +1,14 @@
+input::placeholder{
+    color: red;
+}
+input{
+    color: blue;
+}
+h1::before{
+    content: 'Nosso ';
+    background-color: violet;
+}
+h1::after{
+    content: ' de Cadastro';
+    background-color: blue;
+}

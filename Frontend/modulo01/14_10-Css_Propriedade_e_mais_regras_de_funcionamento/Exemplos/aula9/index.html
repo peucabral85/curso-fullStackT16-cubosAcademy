@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Variáveis CSS</title>
+    <style>
+      :root {
+        /* cores  */
+        --cor-de-fundo: orange;
+        --cor-do-texto: yellow;
+        /* bordas  */
+        --borda: 8px solid blue;
+        /* font  */
+      }
+      h1 {
+        background-color: var(--cor-de-fundo);
+        color: var(--cor-do-texto);
+        border: var(--borda);
+      }
+      p {
+        background-color: var(--cor-de-fundo);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="divVariaveis">
+      <h1>Variaveis css</h1>
+      <p>meu p</p>
+      texto qualquer
+    </div>
+  </body>
+</html>
